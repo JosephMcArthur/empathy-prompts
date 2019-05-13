@@ -1,9 +1,9 @@
 {
     "arthritis": {
         "type":      "motor",
-        "prompt":    "Wear mittens",
-        "details":   "Put on that cozy winter gear and try playing <a rel='external noopener' href='http://www.kongregate.com/'>a browser-based game</a>.",
-        "condition": "Arthritis"
+        "prompt":    "say hi to joe",
+        "details":   "i'm a detail thing, wahoo!!!",
+        "condition": "developer"
     },
     "blindness": {
         "type":      "visual",
